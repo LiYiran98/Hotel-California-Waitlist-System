@@ -1,4 +1,4 @@
-#Hotel California Waitlist System
+# Hotel California Waitlist System
 This is the solution to Tutorial-5 of the module IT5007 at the National University of Singapore.
 
 Before executing the project, make sure you have installed MongoDB.
