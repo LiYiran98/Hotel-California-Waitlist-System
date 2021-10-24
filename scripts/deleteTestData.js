@@ -1,0 +1,1 @@
+db.issues.remove({});

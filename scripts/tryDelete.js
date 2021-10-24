@@ -19,7 +19,8 @@ async function testDelete() {
 
     const docs = await collection.find()
       .toArray();
-    console.log('Result of find:\n', docs);
+    console.log('Result after removing customer 3:\n', docs);
+    
   } catch(err) {
     console.log(err);
   } finally {
