@@ -26,7 +26,7 @@ node scripts/tryRead.js
 node scripts/tryDelete.js
 ```
 
-Delete the test Data:
+Delete the test data:
 ```
 mongo waitlist scripts/deleteTestData.js
 ```
